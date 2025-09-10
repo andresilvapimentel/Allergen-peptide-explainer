@@ -2,7 +2,7 @@
 
 <img src="Graphical abstract.png" alt="drawing" width="400"/>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16888257.svg)](https://doi.org/10.5281/zenodo.16888257)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17095931.svg)](https://doi.org/10.5281/zenodo.17095931)
 
 Allergen peptide explainer is a code to classify the allergenicity of peptide sequences and generate explanations of k-mers or motifs that cause allergy using SHapley Additive exPlanations (SHAP), Local Interpretable Model-Agnostic Explanations (LIME) and Anchors explanations.
 
@@ -30,7 +30,7 @@ Or
 
 # License
 
-Allergen peptide explainer is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/Allergen-peptide-explainer (https://doi.org/???)
+Allergen peptide explainer is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/Allergen-peptide-explainer (https://doi.org/10.5281/zenodo.17095931)
 
 # Contributors
 
