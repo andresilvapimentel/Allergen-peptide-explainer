@@ -1,6 +1,6 @@
 # Allergen-peptide-explainer
 
-<img src="graphical abstract_1.png" alt="drawing" width="400"/>
+<img src="graphical abstract.png" alt="drawing" width="400"/>
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16888257.svg)](https://doi.org/10.5281/zenodo.16888257)
 
